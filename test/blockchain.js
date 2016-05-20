@@ -4,7 +4,7 @@ var assert = require('assert');
 describe('fastrpc.blockchain', function() {
 
   describe("#accountAddresses", function() {
-    var blockchain = new Blockchain();
+    var blockchain = new Blockchain({});
 
     it("should return list of addresses", function(done) {
       blockchain.addAccount({
@@ -20,7 +20,7 @@ describe('fastrpc.blockchain', function() {
   });
 
   describe("#addBlock", function() {
-    var blockchain = new Blockchain();
+    var blockchain = new Blockchain({});
     blockchain.addBlock();
 
     it("increase block number", function() {

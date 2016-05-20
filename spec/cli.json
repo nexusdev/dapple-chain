@@ -1,0 +1,11 @@
+{
+  "commands": [
+    {
+      "name": "status",
+      "options" : [],
+      "summary" : "print the current status of the chain",
+      "help": ""
+    }
+  ]
+}
+

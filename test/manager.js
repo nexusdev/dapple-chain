@@ -8,7 +8,7 @@ describe('fastrpc.manager', function() {
   var block, contractAddress, manager, web3;
 
   beforeEach(function(done) {
-    manager = new Manager();
+    manager = new Manager({});
     web3 = new Web3(new Provider(manager));
     manager.createAccounts(TEST_ACCOUNTS, done);
   });
