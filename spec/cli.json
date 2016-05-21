@@ -5,6 +5,34 @@
       "options" : [],
       "summary" : "print the current status of the chain",
       "help": ""
+    },
+    {
+      "name": "branch",
+      "options": [],
+      "summary": "list all aviable branches",
+      "help": ""
+    },
+    {
+      "name": "fork",
+      "options": [
+        {
+          "name": "<name>",
+          "summary": "new branch name"
+        }
+      ],
+      "summary": "fork chain from the current HEAD",
+      "help": ""
+    },
+    {
+      "name": "checkout",
+      "options": [
+        {
+          "name": "<name>",
+          "summary": "branch name"
+        }
+      ],
+      "summary": "switch to another branch",
+      "help": ""
     }
   ]
 }
