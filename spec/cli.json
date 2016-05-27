@@ -33,6 +33,12 @@
       ],
       "summary": "switch to another branch",
       "help": ""
+    },
+    {
+      "name": "log",
+      "options": [],
+      "summary": "logs all blocks and transactions since the fork root",
+      "help": ""
     }
   ]
 }
