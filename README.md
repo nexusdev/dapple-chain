@@ -1,7 +1,5 @@
-# Dapple Chain
-
-# TODO
-a lot, this is a WIP draft to just dump my ideas in a central place, will continue today and during the next days!!!
+# Dapple Chain - WIP
+This is an ongoing WIP project.
 
 ### Requirements
 We need to have a way to navigate through the chain-state to allow the user to:
