@@ -39,6 +39,11 @@
       "options": [],
       "summary": "logs all blocks and transactions since the fork root",
       "help": ""
+    },
+    {
+      "name": "server",
+      "options": [],
+      "summary": "start an rpc server on the current branch"
     }
   ]
 }
