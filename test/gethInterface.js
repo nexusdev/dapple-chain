@@ -16,7 +16,6 @@ describe('fastrpc.blockchain', function() {
     gi.getLastBlock((err, block) => {
       assert(err === null);
       assert(typeof block === 'string');
-      console.log(block);
       done();
     });
   });
@@ -25,7 +24,6 @@ describe('fastrpc.blockchain', function() {
     gi.getLastBlock((err, blockHash) => {
       gi.getBlockHeader(blockHash, (err, block) => {
         // assert(err === null);
-        console.log(err, block);
         // assert(typeof block === 'string');
         done();
       })
