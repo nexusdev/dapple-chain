@@ -44,6 +44,16 @@
       "name": "server",
       "options": [],
       "summary": "start an rpc server on the current branch"
+    },
+    {
+      "name": "fake",
+      "options": [
+        {
+          "name": "<address>",
+          "summary": "address, you want to fake ownership of"
+        }
+      ],
+      "summary": "pretend you have the private keys over the given address"
     }
   ]
 }
