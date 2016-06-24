@@ -3,6 +3,7 @@ This is an ongoing WIP project.
 
 ### Requirements
 We need to have a way to navigate through the chain-state to allow the user to:
+
 1.  R01: switch between environments and chain states
 2.  R02: tag chain states
 3.  R03: explore the partial state history
