@@ -54,6 +54,16 @@
         }
       ],
       "summary": "pretend you have the private keys over the given address"
+    },
+    {
+      "name": "new",
+      "options": [
+        {
+          "name": "<name>",
+          "summary": "name of the new environment"
+        }
+      ],
+      "summary": "create a new environment"
     }
   ]
 }
