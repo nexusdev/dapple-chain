@@ -7,7 +7,7 @@
       "help": ""
     },
     {
-      "name": "branch",
+      "name": "list",
       "options": [],
       "summary": "list all aviable branches",
       "help": ""
