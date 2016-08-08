@@ -10,7 +10,7 @@
     "bignumber.js": "^2.3.0",
     "body-parser": "^1.13.2",
     "datejs": "^1.0.0-rc3",
-    "deasync": "^0.1.6",
+    "deasync": "^0.1.7",
     "ethereum-common": "0.0.17",
     "ethereumjs-account": "^2.0.2",
     "ethereumjs-block": "^1.2.2",
