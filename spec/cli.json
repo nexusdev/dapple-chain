@@ -59,7 +59,7 @@
       "name": "new",
       "options": [
         {
-          "name": "<name>",
+          "name": "[<name>]",
           "summary": "name of the new environment"
         }
       ],

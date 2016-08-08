@@ -18,7 +18,7 @@
     "ethereumjs-testrpc": "^2.0.8",
     "ethereumjs-tx": "^1.1.1",
     "ethereumjs-util": "^4.3.0",
-    "ethereumjs-vm": "git+https://github.com/nexusdev/ethereumjs-vm.git",
+    "ethereumjs-vm": "^1.4.1",
     "http-proxy": "^1.12.0",
     "inquirer": "^1.1.2",
     "jayson": "^1.2.1",
