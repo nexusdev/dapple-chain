@@ -1,6 +1,6 @@
 {
   "name": "dapple-chain",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "./lib/main.js",
   "directories": {
     "lib": "./lib"
@@ -25,6 +25,7 @@
     "jayson": "^1.2.1",
     "leveldown": "^1.4.6",
     "levelup": "^1.3.1",
+    "lodash": "^4.15.0",
     "merkle-patricia-tree": "2.1.2",
     "request": "^2.60.0",
     "rlp": "^2.0.0",
