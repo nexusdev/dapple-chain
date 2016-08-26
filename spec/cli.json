@@ -64,6 +64,23 @@
         }
       ],
       "summary": "create a new environment"
+    },
+    {
+      "name": "restore",
+      "options": [
+        {
+          "name": "[--eth=<uri>]",
+          "summary": "URI of rpc endpoint"
+        },
+        {
+          "name": "[--etc=<uri>]",
+          "summary": "URI of rpc endpoint"
+        },
+        {
+          "name": "[--morden=<uri>]",
+          "summary": "URI of rpc endpoint"
+        }
+      ]
     }
   ]
 }

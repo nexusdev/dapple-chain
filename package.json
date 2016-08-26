@@ -1,6 +1,6 @@
 {
   "name": "dapple-chain",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "main": "./lib/main.js",
   "directories": {
     "lib": "./lib"
@@ -16,7 +16,7 @@
     "ethereumjs-account": "^2.0.2",
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-blockchain": "git+https://github.com/nexusdev/ethereumjs-blockchain.git",
-    "ethereumjs-testrpc": "^2.0.8",
+    "ethereumjs-testrpc": "2.1.0",
     "ethereumjs-tx": "^1.1.1",
     "ethereumjs-util": "^4.3.0",
     "ethereumjs-vm": "^1.4.1",
