@@ -13,6 +13,15 @@
       "help": ""
     },
     {
+      "name": "rm",
+      "options": [{
+        "name": "<name>",
+        "summary": "name of the chain"
+      }],
+      "summary": "remove a chain",
+      "help": ""
+    },
+    {
       "name": "fork",
       "options": [
         {
