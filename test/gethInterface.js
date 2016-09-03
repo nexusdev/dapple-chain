@@ -1,6 +1,5 @@
 var assert = require('assert');
 var GethInterface = require('../lib/gethInterface.js');
-var deasync = require('deasync');
 
 describe.skip('fastrpc.blockchain', function() {
   var gi;
