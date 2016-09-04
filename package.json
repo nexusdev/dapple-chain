@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "bignumber.js": "^2.3.0",
+    "bignumber.js": "^2.4.0",
     "body-parser": "^1.13.2",
     "cli-color": "^1.1.0",
     "datejs": "^1.0.0-rc3",
@@ -18,7 +18,7 @@
     "ethereumjs-blockchain": "git+https://github.com/nexusdev/ethereumjs-blockchain.git",
     "ethereumjs-testrpc": "2.1.0",
     "ethereumjs-tx": "^1.1.1",
-    "ethereumjs-util": "^4.3.0",
+    "ethereumjs-util": "^4.5.0",
     "ethereumjs-vm": "^1.4.1",
     "http-proxy": "^1.12.0",
     "inquirer": "^1.1.2",
