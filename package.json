@@ -6,36 +6,36 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.1.2",
     "bignumber.js": "^2.4.0",
     "body-parser": "^1.13.2",
     "cli-color": "^1.1.0",
     "datejs": "^1.0.0-rc3",
     "deasync": "^0.1.7",
-    "ethereum-common": "0.0.17",
+    "ethereum-common": "0.0.18",
     "ethereumjs-account": "^2.0.2",
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-blockchain": "git+https://github.com/nexusdev/ethereumjs-blockchain.git",
-    "ethereumjs-testrpc": "2.1.0",
+    "ethereumjs-testrpc": "3.0.0",
     "ethereumjs-tx": "^1.1.1",
     "ethereumjs-util": "^4.5.0",
     "ethereumjs-vm": "^2.0.0",
     "http-proxy": "^1.12.0",
     "inquirer": "^1.1.2",
-    "jayson": "^1.2.1",
+    "jayson": "^2.0.2",
     "leveldown": "^1.4.6",
     "levelup": "^1.3.1",
     "lodash": "^4.15.0",
     "merkle-patricia-tree": "2.1.2",
     "request": "^2.60.0",
     "rlp": "^2.0.0",
-    "shelljs": "^0.6.0",
-    "tmp": "0.0.28",
+    "shelljs": "^0.7.5",
+    "tmp": "0.0.29",
     "web3": "^0.16.0",
-    "web3-provider-engine": "^7.7.0",
-    "yargs": "^3.29.0"
+    "web3-provider-engine": "^8.1.6",
+    "yargs": "^6.3.0"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^3.1.2"
   }
 }
