@@ -1,6 +1,6 @@
 {
   "name": "dapple-chain",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "main": "./lib/main.js",
   "directories": {
     "lib": "./lib"

@@ -49,11 +49,11 @@
       "summary": "start an rpc server on the current branch"
     },
     {
-      "name": "fake",
+      "name": "use",
       "options": [
         {
           "name": "<address>",
-          "summary": "address, you want to fake ownership of"
+          "summary": "address, you want to use, all addresses are accepted!"
         }
       ],
       "summary": "pretend you have the private keys over the given address"
